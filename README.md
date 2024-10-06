@@ -1,1 +1,1 @@
-# kotlinstudy
+# Studying Typescript
